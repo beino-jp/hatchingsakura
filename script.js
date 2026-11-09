@@ -1,6 +1,6 @@
 (function(){
-  /* ▼ LINE公式アカウントのURLが決まったら、この1行だけ書き換えてください */
-  var LINE_URL = "";
+  /* LINE公式アカウントの予約・相談先 */
+  var LINE_URL = "https://lin.ee/oPxuw1e";
 
   if (LINE_URL) {
     document.querySelectorAll("[data-line]").forEach(function(a){
